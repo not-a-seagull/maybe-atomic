@@ -1,0 +1,12 @@
+[package]
+name = "maybe-atomic"
+version = "0.1.0"
+authors = ["not_a_seagull <jtnunley01@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+doc-comment = "0.3.1"
+
+[features]
+default = ["atomic"]
+atomic = []
