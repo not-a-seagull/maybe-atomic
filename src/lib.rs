@@ -1,5 +1,7 @@
 // MIT + Apache 2.0
 
+//! Rust atomic primitives that can be configured to not be atomic.
+
 #![forbid(unsafe_code)]
 #![warn(rust_2018_idioms)]
 #![no_std]
