@@ -3,6 +3,10 @@ name = "maybe-atomic"
 version = "0.1.0"
 authors = ["not_a_seagull <jtnunley01@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/not-a-seagull/maybe-atomic"
+homepage = "https://github.com/not-a-seagull/maybe-atomic"
+license = "MIT/Apache-2.0"
+description = "Versions of atomics whose atomic-ness can be toggled."
 
 [dependencies]
 doc-comment = "0.3.1"
